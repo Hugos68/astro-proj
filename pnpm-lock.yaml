@@ -6,7 +6,7 @@ settings:
 
 dependencies:
   '@astrojs/vercel':
-    specifier: ^7.3.0
+    specifier: ^7.0.0
     version: 7.3.0(astro@4.3.5)
   astro:
     specifier: ^4.1.0
